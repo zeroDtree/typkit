@@ -1,5 +1,5 @@
 [package]
-name = "paperkit"
+name = "typkit"
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["zengls"]

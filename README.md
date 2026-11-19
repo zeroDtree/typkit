@@ -1,8 +1,8 @@
 ## Quick Start
 
 ```bash
-git clone git@github.com:zeroDtree/my_pkg_typ.git
-# git clone https://github.com/zeroDtree/my_pkg_typ.git
+git clone git@github.com:zeroDtree/typkit.git
+# git clone https://github.com/zeroDtree/typkit.git
 cd my_pkg_typ
 ```
 
