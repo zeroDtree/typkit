@@ -1,6 +1,6 @@
 #import "@preview/cetz:0.4.2"
-#import "@local/paperkit:0.1.0" as paperkit
-#import paperkit.word_count: *
+#import "@local/typkit:0.1.0" as typkit
+#import typkit.word_count: *
 
 #show: word-count-cjk
 

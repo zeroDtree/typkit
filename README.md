@@ -3,7 +3,7 @@
 ```bash
 git clone git@github.com:zeroDtree/typkit.git
 # git clone https://github.com/zeroDtree/typkit.git
-cd my_pkg_typ
+cd typkit
 ```
 
 - For MacOS:
